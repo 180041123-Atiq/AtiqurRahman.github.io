@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://AtiqurRahman.github.io/sitemap.xml
+Sitemap: https://180041123-Atiq.github.io/sitemap.xml
